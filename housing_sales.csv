@@ -1,0 +1,1001 @@
+City,PropertyType,SalePrice,Bedrooms,Bathrooms,SquareFeet,SaleDate
+Los Angeles,Multi-Family,399671.42,3,1,3692,2024-09-12
+Houston,Townhouse,336173.57,2,3,4044,2022-05-01
+Phoenix,Multi-Family,507921.28,5,2,2991,2019-08-15
+Philadelphia,Single Family,426743.47,4,2,3033,2024-02-25
+Philadelphia,Multi-Family,303658.23,4,2,4717,2023-12-09
+Philadelphia,Single Family,303427.02,5,1,1074,2019-05-31
+New York,Multi-Family,248716.89,4,3,789,2021-03-14
+Dallas,Condo,381424.73,3,3,1867,2022-05-01
+Los Angeles,Apartment,295561.73,3,3,3488,2025-04-25
+Houston,Single Family,361092.26,2,1,2963,2018-07-04
+San Jose,Townhouse,147328.04,2,1,1963,2023-08-07
+Houston,Apartment,461942.36,4,3,2078,2020-02-06
+San Jose,Single Family,463022.82,3,2,3752,2023-11-18
+San Diego,Multi-Family,387311.89,4,2,4543,2018-09-30
+New York,Multi-Family,305325.85,2,2,2100,2019-07-30
+New York,Apartment,502424.16,2,2,761,2025-01-09
+Chicago,Apartment,419839.89,4,1,937,2023-12-18
+Dallas,Townhouse,332837.12,5,2,979,2024-02-21
+Chicago,Townhouse,254697.22,5,1,3168,2022-09-22
+San Antonio,Condo,245212.94,1,3,991,2022-05-24
+Los Angeles,Multi-Family,439433.23,5,2,2878,2018-05-27
+Philadelphia,Multi-Family,425499.78,2,1,3699,2022-10-09
+Phoenix,Apartment,383126.34,2,1,3054,2018-03-02
+Philadelphia,Townhouse,447554.51,5,3,3331,2024-10-07
+San Diego,Condo,433479.54,1,3,3290,2023-06-09
+Chicago,Townhouse,379656.14,1,1,1102,2018-03-14
+Houston,Single Family,346417.4,1,3,2084,2024-03-03
+San Jose,Multi-Family,506464.37,3,3,1463,2018-08-05
+Philadelphia,Single Family,208124.95,4,2,2278,2019-10-27
+Chicago,Multi-Family,454249.16,3,1,1659,2018-09-12
+Chicago,Single Family,363575.38,3,2,3225,2023-06-25
+Houston,Single Family,410808.97,2,1,2197,2019-11-19
+Houston,Apartment,441540.21,4,2,2581,2024-03-15
+San Antonio,Single Family,382875.11,3,2,2638,2023-05-16
+Dallas,Multi-Family,319071.15,1,1,1906,2019-05-02
+Dallas,Apartment,417312.55,1,1,1882,2020-08-03
+Philadelphia,Apartment,350511.35,1,2,4348,2022-04-30
+Dallas,Single Family,326541.29,1,3,1263,2022-09-24
+Los Angeles,Townhouse,333871.43,1,1,2453,2025-05-12
+Chicago,Condo,390405.09,1,2,1891,2025-05-19
+San Jose,Apartment,348144.92,1,1,4296,2021-06-03
+San Antonio,Apartment,182649.54,1,3,2760,2018-02-02
+Phoenix,Condo,343562.19,5,1,4074,2020-07-06
+Philadelphia,Single Family,384490.23,2,1,2307,2022-09-03
+San Jose,Single Family,546503.48,4,3,802,2024-03-25
+San Antonio,Condo,156008.88,3,1,1366,2020-07-22
+Los Angeles,Multi-Family,336270.9,2,2,2530,2021-09-25
+San Antonio,Condo,490132.16,1,1,1747,2020-04-04
+Chicago,Apartment,543383.98,3,3,1969,2021-09-21
+Los Angeles,Single Family,358097.08,3,3,746,2024-09-14
+Los Angeles,Apartment,277970.2,1,1,2559,2018-11-22
+New York,Apartment,323006.62,2,1,2402,2020-02-13
+New York,Single Family,271674.67,2,3,862,2025-03-23
+New York,Condo,317793.85,4,2,1223,2023-11-17
+San Diego,Apartment,486388.65,2,1,4323,2023-01-01
+Houston,Apartment,603916.27,5,1,4690,2018-07-14
+Houston,Single Family,289860.28,3,3,3791,2025-06-24
+Philadelphia,Single Family,265338.56,1,3,2248,2018-07-31
+Chicago,Townhouse,379307.25,5,2,4377,2021-02-01
+Dallas,Townhouse,278564.86,3,1,4667,2020-05-31
+New York,Multi-Family,252531.83,5,3,1818,2023-03-14
+Phoenix,Single Family,428708.46,1,1,3335,2020-02-21
+San Antonio,Multi-Family,325461.19,5,3,3085,2018-12-18
+Houston,Condo,274626.38,3,3,825,2018-12-17
+San Diego,Single Family,480034.51,1,1,3667,2020-01-28
+Phoenix,Condo,215647.62,5,3,3720,2023-04-12
+New York,Condo,171674.89,3,1,1660,2023-03-26
+Dallas,Apartment,325686.55,5,1,901,2023-05-12
+Phoenix,Condo,304753.78,5,3,1784,2022-04-04
+Phoenix,Apartment,427704.98,3,2,2416,2025-07-10
+Los Angeles,Multi-Family,459632.98,3,2,4463,2020-01-10
+San Antonio,Multi-Family,316458.9,2,3,3501,2020-12-21
+Houston,Multi-Family,219430.24,2,2,4657,2022-07-14
+Dallas,Condo,274923.82,1,1,4941,2023-07-28
+Los Angeles,Townhouse,212233.06,2,3,2441,2025-06-24
+New York,Apartment,256217.5,1,1,3550,2020-07-22
+San Jose,Single Family,493735.63,1,2,3301,2018-06-04
+San Jose,Single Family,350730.64,4,3,1766,2019-06-06
+Chicago,Multi-Family,272717.48,3,1,4369,2024-02-22
+San Diego,Townhouse,326318.14,5,2,2315,2021-11-25
+Phoenix,Multi-Family,150846.22,5,1,1476,2018-04-06
+Dallas,Townhouse,392602.59,4,2,4742,2021-01-18
+San Antonio,Townhouse,273449.06,5,2,1235,2021-03-01
+San Jose,Condo,392231.38,2,2,2282,2023-05-01
+Phoenix,Multi-Family,283821.35,4,2,1969,2024-08-08
+Dallas,Single Family,435243.33,5,2,716,2018-07-10
+Houston,Townhouse,336428.26,4,1,2264,2024-05-18
+Dallas,Apartment,270649.5,2,2,1112,2019-07-27
+Dallas,Condo,195117.13,1,1,3943,2019-06-10
+New York,Townhouse,315687.09,5,3,2070,2018-10-18
+Houston,Townhouse,515546.16,3,2,2279,2023-02-26
+Phoenix,Multi-Family,303707.46,3,1,3344,2023-03-31
+Houston,Condo,281999.57,1,2,3659,2024-05-12
+Los Angeles,Single Family,323659.42,5,2,3079,2020-09-14
+Phoenix,Condo,295074.71,5,3,3449,2020-06-03
+Dallas,Condo,459679.63,4,3,4330,2020-05-18
+Chicago,Apartment,466316.38,5,1,3687,2021-09-07
+San Jose,Condo,351023.31,2,1,1495,2024-11-06
+San Jose,Single Family,467243.58,4,2,4346,2020-03-24
+San Jose,Apartment,403140.0,4,1,4600,2023-01-14
+San Diego,Townhouse,398121.77,4,3,4513,2024-01-23
+Houston,Townhouse,396705.72,3,1,3044,2022-02-23
+Houston,Townhouse,295496.24,5,3,1353,2022-06-01
+Chicago,Single Family,223261.77,3,3,3496,2019-09-06
+San Jose,Single Family,234448.41,2,2,3669,2020-10-21
+Los Angeles,Condo,507011.06,2,3,1216,2023-06-23
+Los Angeles,Townhouse,545128.01,2,1,3746,2018-08-27
+Chicago,Condo,345991.49,5,1,3948,2018-08-15
+Houston,Multi-Family,355074.4,5,1,3567,2022-12-02
+San Jose,Apartment,399459.99,3,1,1722,2018-01-04
+Houston,Multi-Family,171232.84,5,1,4366,2018-07-08
+Houston,Multi-Family,227942.99,5,3,3514,2021-07-17
+Houston,Condo,480547.88,5,3,995,2018-09-30
+New York,Single Family,352100.38,5,1,4771,2021-10-07
+San Diego,Single Family,389204.19,4,3,4177,2021-10-27
+San Jose,Townhouse,337547.48,5,1,3538,2022-05-10
+Chicago,Apartment,315741.11,5,2,3582,2021-08-13
+New York,Apartment,374931.45,2,1,1332,2024-03-22
+San Diego,Multi-Family,267450.28,4,1,1553,2018-07-13
+Dallas,Multi-Family,317861.42,4,1,3924,2023-11-10
+Dallas,Apartment,324158.23,2,1,3593,2023-03-12
+Chicago,Single Family,468348.23,3,2,1817,2022-07-06
+Phoenix,Townhouse,465435.43,1,1,1755,2021-06-18
+Philadelphia,Apartment,302261.83,4,2,4086,2024-10-06
+Dallas,Townhouse,116040.34,3,2,4202,2018-02-09
+Phoenix,Multi-Family,314846.32,3,1,1843,2019-03-07
+Philadelphia,Townhouse,509015.77,5,3,1984,2023-12-15
+Phoenix,Condo,397164.2,1,3,2596,2021-05-04
+San Diego,Apartment,296025.46,4,1,1423,2023-02-05
+Chicago,Multi-Family,208003.84,1,2,733,2019-03-15
+Dallas,Apartment,160325.28,5,3,3411,2020-06-07
+San Diego,Multi-Family,409909.33,5,3,4112,2023-05-13
+New York,Condo,577576.13,1,1,4237,2020-10-25
+Houston,Condo,390622.67,3,3,1953,2020-11-20
+Chicago,Townhouse,568980.29,2,2,4319,2023-12-24
+New York,Townhouse,269170.17,2,2,1139,2022-02-01
+New York,Apartment,158729.35,4,1,3379,2023-03-19
+Dallas,Townhouse,386247.65,5,1,2181,2021-06-09
+San Diego,Single Family,518468.5,1,2,609,2019-11-22
+Chicago,Apartment,176968.47,2,3,1615,2025-06-11
+Chicago,Multi-Family,467944.01,1,3,4758,2024-03-04
+Los Angeles,Single Family,303082.43,1,2,4600,2023-06-06
+New York,Townhouse,104773.54,1,1,2600,2024-07-12
+San Jose,Condo,259870.62,5,3,2268,2020-07-30
+New York,Apartment,350524.37,5,1,3324,2019-08-23
+New York,Townhouse,354698.06,2,2,4778,2025-03-07
+Los Angeles,Single Family,318697.63,1,3,1316,2018-06-24
+Los Angeles,Single Family,190087.65,4,2,2423,2025-05-25
+Philadelphia,Townhouse,349836.4,3,3,4963,2019-01-26
+Philadelphia,Apartment,307396.77,1,2,835,2024-08-11
+Chicago,Single Family,452657.98,1,1,3414,2025-05-30
+Chicago,Single Family,366608.81,5,1,4581,2022-04-20
+Chicago,Single Family,253507.65,4,2,1929,2022-03-09
+Houston,Multi-Family,418605.15,2,2,1958,2019-08-16
+Chicago,Townhouse,438606.36,4,1,4861,2024-07-01
+Houston,Apartment,336292.22,1,3,3777,2024-09-17
+Phoenix,Single Family,179661.76,5,2,4900,2023-02-22
+Phoenix,Condo,344445.23,3,3,4423,2019-08-05
+Chicago,Townhouse,398509.41,3,2,1499,2022-07-21
+Dallas,Condo,143747.43,4,1,3866,2021-07-30
+San Diego,Townhouse,354370.27,2,1,3722,2024-01-21
+Philadelphia,Townhouse,457368.2,3,1,4500,2019-11-16
+Houston,Townhouse,355084.26,5,1,1123,2022-02-05
+Phoenix,Apartment,301135.99,2,2,3193,2024-12-24
+Houston,Multi-Family,312533.87,3,1,2896,2020-05-31
+Phoenix,Multi-Family,268132.3,1,2,2886,2023-08-22
+Chicago,Condo,227394.7,5,1,2655,2020-07-04
+San Diego,Condo,354166.53,1,3,1876,2020-05-21
+San Antonio,Apartment,352375.15,2,3,2725,2024-06-28
+Houston,Condo,381563.6,2,1,2246,2021-05-11
+San Jose,Townhouse,397182.7,4,1,3945,2018-03-13
+San Diego,Apartment,415106.51,2,2,2506,2021-02-26
+Dallas,Apartment,268949.42,5,2,1662,2025-03-07
+Chicago,Condo,259545.81,1,1,725,2023-06-03
+Chicago,Multi-Family,518714.16,3,1,2756,2023-05-27
+Houston,Condo,438163.98,2,3,4806,2022-12-27
+Chicago,Single Family,390156.06,1,3,3072,2024-08-15
+Los Angeles,Single Family,514694.9,5,2,3339,2024-04-12
+Los Angeles,Condo,442617.75,3,1,4412,2024-11-15
+Dallas,Townhouse,540941.66,1,1,2060,2024-09-12
+Los Angeles,Multi-Family,284935.74,3,2,2997,2024-10-29
+Los Angeles,Multi-Family,301287.46,1,3,842,2020-02-13
+Houston,Condo,429748.42,1,2,3151,2022-07-18
+Chicago,Townhouse,364520.41,3,2,4889,2022-02-01
+Phoenix,Townhouse,554332.05,3,1,1741,2021-01-19
+Philadelphia,Apartment,511961.22,4,3,1323,2023-04-05
+San Diego,Apartment,187245.76,1,2,2173,2019-01-25
+San Antonio,Apartment,354808.49,5,2,4834,2020-10-17
+Philadelphia,Townhouse,330203.7,3,1,1501,2024-12-12
+Chicago,Multi-Family,397682.81,2,2,860,2025-06-27
+Chicago,Condo,450629.28,1,3,2976,2019-01-04
+Phoenix,Apartment,292310.81,1,1,2594,2023-06-03
+Philadelphia,Townhouse,588987.83,3,2,1718,2019-03-14
+Philadelphia,Apartment,289558.55,1,1,4627,2023-07-16
+Dallas,Single Family,366972.93,4,3,2170,2023-07-01
+Phoenix,Apartment,358939.39,1,2,4243,2018-07-14
+Houston,Condo,338014.91,1,1,1914,2024-03-02
+Philadelphia,Single Family,361372.95,5,1,3498,2020-05-02
+San Jose,Townhouse,378977.49,4,1,1665,2024-03-21
+San Jose,Multi-Family,557540.08,1,2,2943,2019-06-26
+Phoenix,Condo,527237.8,3,1,2790,2022-09-17
+New York,Multi-Family,310162.66,1,1,2792,2025-03-29
+Philadelphia,Apartment,326082.13,5,3,3710,2024-09-11
+Phoenix,Condo,432310.5,3,2,3226,2018-12-09
+San Antonio,Apartment,202141.38,4,3,2635,2022-05-05
+Houston,Multi-Family,464375.4,3,1,3197,2024-02-24
+San Diego,Townhouse,432815.35,3,3,2936,2019-09-29
+San Jose,Multi-Family,450989.5,4,2,2457,2019-05-01
+San Diego,Multi-Family,397897.98,1,2,3453,2024-06-05
+San Diego,Condo,383366.21,5,3,3828,2024-12-17
+Dallas,Single Family,248138.06,4,1,4825,2023-01-11
+San Antonio,Single Family,647619.69,3,3,3274,2024-06-26
+Los Angeles,Condo,391343.49,3,3,2716,2022-08-05
+San Antonio,Condo,537679.58,4,3,3925,2024-07-28
+San Jose,Apartment,367059.42,2,2,962,2023-01-17
+Los Angeles,Multi-Family,433556.54,4,2,2788,2020-11-08
+Phoenix,Apartment,436784.9,3,1,3535,2021-07-24
+Philadelphia,Apartment,256348.6,5,3,3777,2025-02-11
+Dallas,Townhouse,289735.22,1,2,4746,2021-10-08
+Chicago,Multi-Family,480184.92,5,2,3967,2020-02-18
+New York,Condo,317072.63,2,2,1805,2019-04-28
+Chicago,Multi-Family,302971.86,1,1,2454,2018-01-07
+San Jose,Condo,244536.31,5,3,1932,2020-06-21
+Dallas,Multi-Family,277052.59,1,2,4107,2020-03-31
+New York,Condo,397531.89,3,3,1136,2022-06-06
+San Diego,Townhouse,481883.86,2,3,985,2021-09-20
+Chicago,Single Family,194425.0,3,1,1554,2018-11-15
+San Diego,Multi-Family,71536.44,4,3,1805,2020-09-04
+Chicago,Apartment,349334.65,5,1,4980,2025-07-30
+San Jose,Condo,218085.5,3,2,3313,2019-06-07
+San Antonio,Single Family,323111.13,4,3,2324,2022-03-04
+New York,Single Family,239347.41,1,3,2392,2021-12-30
+Phoenix,Single Family,262913.54,3,3,1551,2023-10-28
+San Jose,Condo,188803.88,3,2,2679,2025-04-25
+Houston,Apartment,575648.4,5,2,4095,2019-08-10
+Philadelphia,Condo,292641.48,3,2,1368,2022-03-12
+San Diego,Single Family,324502.28,2,2,2761,2019-10-22
+Phoenix,Single Family,500399.3,3,3,3935,2023-11-20
+Los Angeles,Multi-Family,209248.83,2,1,654,2020-07-28
+Dallas,Multi-Family,272218.33,4,2,4062,2022-10-04
+San Jose,Townhouse,341077.88,3,3,3090,2021-03-02
+Phoenix,Apartment,352998.36,5,2,3910,2018-01-16
+Phoenix,Single Family,446279.07,4,3,2743,2018-06-10
+Houston,Townhouse,367255.84,3,1,4877,2021-09-17
+Dallas,Condo,284276.67,2,3,1374,2024-04-19
+Chicago,Multi-Family,256264.43,1,3,3756,2020-08-08
+San Diego,Townhouse,183022.08,2,1,4194,2019-09-12
+Dallas,Condo,526468.69,2,3,2009,2023-02-09
+Los Angeles,Apartment,317066.9,4,1,1404,2020-02-07
+San Diego,Single Family,340317.4,1,2,4177,2024-10-13
+Phoenix,Condo,295508.09,2,2,3279,2022-05-11
+Houston,Single Family,389913.61,3,2,4823,2022-01-29
+Dallas,Condo,343570.73,1,2,3199,2022-06-23
+Phoenix,Apartment,215729.34,2,1,1904,2020-08-03
+Houston,Single Family,287714.55,3,2,2651,2020-05-10
+Houston,Townhouse,308185.7,2,2,2676,2021-12-06
+San Diego,Apartment,296024.03,3,2,2775,2020-11-16
+Houston,Multi-Family,272169.53,5,2,640,2022-11-10
+San Antonio,Single Family,390825.28,1,2,2222,2018-06-06
+San Antonio,Condo,179741.64,5,2,941,2024-11-12
+Philadelphia,Condo,375602.97,4,1,1054,2019-12-24
+San Jose,Single Family,448269.1,2,1,4072,2025-07-29
+Houston,Apartment,165912.58,2,2,4825,2021-11-12
+San Antonio,Townhouse,222042.3,4,2,1986,2019-04-12
+Chicago,Multi-Family,327499.41,4,1,786,2020-12-30
+Los Angeles,Apartment,470759.22,3,2,4793,2018-03-27
+San Jose,Apartment,401987.22,5,1,2385,2019-01-08
+San Antonio,Apartment,338167.66,4,3,2362,2019-08-17
+San Antonio,Townhouse,373599.98,3,1,1081,2020-10-27
+Chicago,Single Family,373267.64,1,2,2124,2019-04-19
+Dallas,Apartment,223197.85,1,1,660,2018-09-09
+San Diego,Townhouse,217085.42,3,2,4720,2021-12-20
+San Jose,Single Family,420775.19,5,3,4149,2021-12-09
+Los Angeles,Apartment,293753.32,2,3,2236,2022-08-09
+San Diego,Multi-Family,218065.21,3,3,3308,2018-12-21
+Dallas,Apartment,327375.48,1,3,3021,2021-08-13
+San Antonio,Condo,353974.17,2,1,4326,2019-01-08
+Chicago,Apartment,351134.85,3,2,1088,2023-03-29
+Houston,Single Family,392961.82,2,1,3757,2023-01-06
+New York,Multi-Family,370768.77,2,3,4453,2021-08-09
+New York,Single Family,385752.62,3,2,1426,2023-08-09
+San Diego,Townhouse,291273.06,5,2,3894,2024-05-29
+Phoenix,Townhouse,352831.84,2,3,4161,2020-08-05
+Houston,Multi-Family,352975.61,1,2,1782,2023-04-27
+Dallas,Apartment,440225.47,5,2,730,2023-09-14
+San Jose,Single Family,148808.2,5,3,3583,2022-06-16
+Chicago,Single Family,141998.24,1,1,1520,2020-12-29
+Chicago,Multi-Family,221585.91,5,2,4711,2020-07-23
+Philadelphia,Single Family,451013.7,2,3,1338,2024-05-29
+San Diego,Multi-Family,330373.88,2,2,3061,2024-06-01
+Philadelphia,Townhouse,414090.38,3,3,1413,2023-06-29
+New York,Multi-Family,332808.66,4,1,2632,2024-12-13
+Dallas,Single Family,299014.24,1,3,3024,2018-08-04
+San Antonio,Single Family,101538.84,2,2,1520,2025-03-13
+Los Angeles,Multi-Family,378697.4,1,2,4360,2019-02-08
+New York,Condo,141478.24,3,1,1765,2021-09-18
+Phoenix,Single Family,428617.49,2,2,4988,2019-10-08
+Phoenix,Condo,304767.18,1,1,3232,2022-05-11
+Dallas,Single Family,325493.04,4,3,2641,2021-05-27
+San Antonio,Single Family,261684.28,5,1,4668,2023-06-08
+San Diego,Townhouse,333427.69,3,2,2468,2019-07-03
+San Jose,Townhouse,267441.52,2,1,1484,2024-01-21
+New York,Townhouse,337178.85,1,1,3153,2019-03-25
+San Jose,Multi-Family,299886.0,3,2,2396,2025-03-02
+San Antonio,Townhouse,225082.49,1,3,2513,2018-03-17
+Chicago,Multi-Family,407148.07,1,1,2514,2018-07-04
+San Jose,Townhouse,492050.42,1,3,4855,2024-05-23
+Los Angeles,Single Family,292925.37,3,2,1492,2020-11-26
+Houston,Multi-Family,585737.64,5,2,1890,2020-01-08
+Phoenix,Single Family,443783.83,1,3,3282,2023-08-24
+Los Angeles,Condo,404349.91,5,3,1554,2018-03-20
+Philadelphia,Apartment,458360.97,2,3,4733,2023-02-25
+San Jose,Single Family,438410.08,2,2,636,2025-01-13
+Houston,Single Family,254931.62,4,1,1395,2022-01-17
+Houston,Townhouse,50000.0,5,3,3345,2024-12-03
+San Antonio,Townhouse,262977.68,3,2,4530,2025-04-03
+San Jose,Townhouse,390941.34,3,1,2304,2020-11-23
+San Diego,Apartment,413797.33,5,3,3204,2023-06-14
+San Diego,Townhouse,456667.47,3,2,1156,2019-03-26
+New York,Multi-Family,466929.56,2,1,3319,2019-02-28
+Dallas,Apartment,470650.9,2,2,1188,2019-08-16
+San Diego,Single Family,268306.43,5,3,2585,2019-09-03
+San Jose,Single Family,431775.27,1,1,2664,2023-03-19
+San Diego,Townhouse,201060.69,2,1,1607,2023-06-28
+Philadelphia,Multi-Family,376658.05,2,1,1847,2020-12-07
+San Antonio,Multi-Family,309862.02,2,3,2035,2023-11-11
+San Diego,Multi-Family,410789.65,5,2,2487,2023-11-15
+Philadelphia,Apartment,368660.91,4,2,1640,2020-01-26
+Philadelphia,Condo,425190.26,1,2,3791,2024-10-03
+San Jose,Townhouse,447689.91,3,2,2953,2024-11-11
+Phoenix,Apartment,552040.2,4,1,3107,2022-05-07
+Houston,Multi-Family,276012.57,5,3,3704,2019-07-30
+San Diego,Multi-Family,336896.16,3,3,4209,2022-01-26
+Philadelphia,Multi-Family,146475.98,2,2,3956,2023-09-25
+New York,Condo,358895.23,5,1,1698,2022-07-01
+San Diego,Multi-Family,466591.37,4,2,3755,2018-11-03
+Phoenix,Multi-Family,221969.56,1,2,4111,2023-03-04
+New York,Townhouse,437245.73,4,1,4716,2023-07-12
+New York,Multi-Family,165322.76,2,2,4198,2019-12-27
+San Jose,Condo,293333.06,2,1,2455,2021-08-17
+Dallas,Condo,390276.83,2,3,2855,2020-05-21
+San Antonio,Apartment,418986.32,3,2,1584,2018-01-28
+Dallas,Townhouse,384272.53,3,2,4233,2025-05-01
+Phoenix,Multi-Family,395675.32,4,3,1559,2018-12-06
+San Jose,Townhouse,401383.52,2,3,1126,2025-04-04
+New York,Apartment,324318.97,1,2,2853,2018-12-14
+San Antonio,Condo,513811.27,4,1,1616,2020-11-28
+Phoenix,Multi-Family,500103.88,4,3,716,2021-02-23
+New York,Townhouse,204657.35,5,1,4767,2022-10-17
+Philadelphia,Condo,546532.75,5,2,2613,2024-07-04
+Dallas,Apartment,304769.37,3,1,1328,2018-10-04
+San Jose,Condo,107612.07,1,2,4096,2018-11-07
+Phoenix,Townhouse,347582.3,1,1,3536,2020-09-02
+Chicago,Single Family,292899.53,4,1,1313,2021-05-27
+Phoenix,Single Family,356250.27,1,1,2549,2018-04-22
+San Diego,Condo,271952.6,1,1,1517,2019-12-06
+San Antonio,Single Family,413211.61,2,2,1486,2020-12-12
+New York,Townhouse,252123.34,4,1,2495,2018-12-13
+New York,Single Family,489935.54,1,2,3744,2021-12-18
+Chicago,Townhouse,442463.37,1,2,1315,2018-04-09
+San Antonio,Apartment,389326.32,4,2,4806,2024-10-07
+San Jose,Apartment,418144.51,3,3,2654,2022-02-21
+Los Angeles,Single Family,415140.93,2,2,1009,2022-07-04
+Los Angeles,Single Family,547654.43,3,3,4709,2021-07-07
+Chicago,Condo,284858.2,5,3,2769,2023-07-28
+Phoenix,Multi-Family,301611.42,3,3,1349,2023-02-26
+Dallas,Apartment,246842.38,5,3,2935,2025-05-05
+San Antonio,Single Family,297070.18,3,2,2589,2025-04-13
+Houston,Single Family,256678.66,1,3,3571,2021-04-16
+San Diego,Single Family,425332.58,2,3,4730,2022-06-13
+Dallas,Apartment,308768.69,1,3,4488,2023-02-22
+San Diego,Townhouse,208803.9,5,3,2577,2020-12-15
+Dallas,Townhouse,301681.35,4,2,1555,2024-05-29
+Houston,Single Family,507398.68,2,1,1873,2024-10-16
+San Antonio,Condo,339460.81,2,3,2041,2020-02-20
+Chicago,Townhouse,528082.92,4,2,4990,2021-06-12
+Chicago,Condo,415232.29,5,3,1129,2025-03-15
+Chicago,Single Family,192360.78,5,3,3514,2021-10-13
+New York,Apartment,302369.94,2,2,601,2022-01-03
+Dallas,Apartment,488831.27,5,1,4605,2018-06-18
+Philadelphia,Townhouse,184950.88,4,1,2246,2020-06-05
+San Diego,Multi-Family,344957.71,1,2,4414,2019-07-08
+San Diego,Multi-Family,313755.91,1,2,1852,2023-05-18
+New York,Single Family,238033.01,5,3,4623,2018-10-27
+Philadelphia,Multi-Family,209371.54,3,2,4378,2018-08-13
+New York,Single Family,294737.2,2,1,3491,2020-10-20
+Phoenix,Multi-Family,324074.96,4,3,2960,2018-10-23
+New York,Apartment,473368.69,4,1,3778,2019-07-14
+San Diego,Townhouse,434707.9,5,1,4168,2018-12-21
+San Jose,Condo,472250.09,4,3,2342,2020-08-07
+Philadelphia,Single Family,508400.36,4,2,2981,2019-03-22
+Phoenix,Apartment,580779.17,2,1,1916,2024-08-14
+Philadelphia,Condo,336908.4,5,3,1608,2025-03-11
+Phoenix,Multi-Family,246504.51,3,2,1635,2023-03-20
+San Jose,Single Family,363934.26,1,3,3849,2020-10-09
+Chicago,Single Family,395253.49,4,2,4523,2021-06-16
+Houston,Single Family,276731.58,5,1,1614,2024-12-16
+Houston,Condo,400542.71,5,2,2118,2021-10-16
+San Antonio,Condo,404721.59,2,3,4085,2022-10-06
+Phoenix,Townhouse,258284.02,2,2,4319,2022-10-16
+San Diego,Townhouse,387339.62,3,1,3672,2024-06-15
+New York,Condo,400701.58,3,3,3724,2022-02-05
+San Jose,Apartment,433918.49,4,2,1303,2019-09-29
+Phoenix,Multi-Family,531537.27,1,1,3232,2022-10-04
+San Diego,Condo,323803.36,3,2,3773,2020-01-03
+San Diego,Apartment,299232.02,4,2,4714,2022-02-17
+San Jose,Multi-Family,409740.01,1,3,1450,2024-05-19
+Los Angeles,Apartment,420117.27,5,3,4312,2021-08-21
+San Jose,Apartment,362050.0,1,1,4326,2018-11-22
+Dallas,Townhouse,247132.57,1,2,2790,2018-12-07
+New York,Multi-Family,261483.65,1,1,1335,2024-05-20
+Philadelphia,Apartment,505256.18,1,3,3938,2019-06-19
+Philadelphia,Condo,514201.52,2,2,3589,2020-09-04
+Chicago,Single Family,450981.71,1,3,4465,2023-07-17
+San Diego,Condo,186932.66,4,3,642,2025-06-10
+San Diego,Multi-Family,367097.1,2,3,1604,2019-08-13
+San Diego,Multi-Family,322940.01,5,3,1314,2022-11-10
+Los Angeles,Multi-Family,476182.04,3,3,740,2024-11-08
+Los Angeles,Condo,274603.54,5,1,4235,2023-08-16
+Dallas,Single Family,321932.49,3,1,705,2023-12-03
+New York,Townhouse,501451.76,1,1,2737,2021-01-06
+San Jose,Condo,427308.32,1,2,4130,2023-10-29
+Dallas,Apartment,295967.78,1,2,1044,2018-02-17
+New York,Condo,401354.07,2,2,2398,2018-08-25
+New York,Condo,303837.04,5,2,3538,2019-04-23
+San Diego,Condo,465233.26,5,3,1900,2020-10-15
+Philadelphia,Condo,321605.82,1,3,609,2019-03-12
+Los Angeles,Condo,390119.22,2,1,2260,2022-11-22
+Philadelphia,Single Family,367651.13,1,2,1916,2022-11-11
+San Jose,Townhouse,376540.38,4,2,4283,2022-05-03
+Los Angeles,Condo,531957.3,2,3,3640,2022-05-07
+Houston,Multi-Family,267180.6,2,1,2184,2022-01-30
+Houston,Apartment,413377.69,5,1,1261,2018-06-14
+Philadelphia,Condo,391379.91,5,3,3066,2024-06-17
+San Antonio,Apartment,446387.91,2,1,3237,2022-09-18
+San Diego,Single Family,571052.3,5,1,1040,2018-06-28
+Houston,Condo,381438.35,3,3,4329,2024-08-11
+Chicago,Multi-Family,349791.62,3,2,4608,2021-06-17
+New York,Apartment,406898.31,5,2,4731,2021-01-09
+Philadelphia,Multi-Family,512839.66,5,1,672,2024-12-26
+Phoenix,Multi-Family,239922.07,1,3,1307,2018-05-30
+Houston,Apartment,278870.14,5,1,4313,2023-03-02
+Dallas,Townhouse,297908.62,5,2,2335,2025-01-13
+San Jose,Multi-Family,370542.86,2,3,3661,2020-12-05
+Houston,Apartment,325349.13,2,3,3417,2024-07-17
+Philadelphia,Multi-Family,196196.43,1,3,3001,2019-01-13
+Houston,Townhouse,154888.15,4,2,4219,2021-01-11
+Los Angeles,Multi-Family,287107.11,5,1,2934,2019-10-08
+San Diego,Condo,282401.37,2,2,1232,2022-04-13
+Philadelphia,Condo,402277.8,4,1,2531,2020-08-23
+San Jose,Apartment,347998.11,5,3,2140,2022-09-18
+San Antonio,Condo,388361.2,4,1,885,2023-11-16
+San Diego,Apartment,581932.95,2,3,1612,2019-03-07
+Dallas,Multi-Family,389331.78,4,2,2123,2024-01-05
+San Antonio,Townhouse,242940.57,2,1,940,2025-01-17
+San Antonio,Single Family,261025.39,2,3,3096,2025-02-18
+Houston,Townhouse,265190.13,2,2,861,2018-03-31
+Chicago,Single Family,189898.07,3,2,2790,2020-05-23
+San Diego,Apartment,358182.94,3,2,3887,2023-03-07
+Chicago,Single Family,340111.03,2,2,733,2020-09-22
+Houston,Single Family,313861.42,1,3,4825,2024-11-02
+Philadelphia,Apartment,304989.89,3,2,4961,2023-12-03
+Houston,Single Family,327485.35,1,3,1733,2023-02-06
+Houston,Single Family,369757.89,5,3,3130,2022-10-14
+Los Angeles,Single Family,243488.63,5,2,3564,2021-11-25
+San Antonio,Single Family,319477.53,2,1,4823,2019-01-26
+San Diego,Single Family,169759.11,4,2,3636,2019-09-16
+Chicago,Apartment,285347.05,4,3,3319,2020-08-06
+New York,Condo,404011.27,4,3,2553,2020-01-12
+Houston,Apartment,221750.14,2,1,4450,2020-02-22
+Chicago,Apartment,414591.78,1,3,2730,2019-01-20
+San Diego,Apartment,487430.95,1,3,4844,2025-01-09
+Phoenix,Single Family,313277.58,3,3,999,2024-05-19
+San Jose,Townhouse,279324.32,4,1,2238,2019-02-17
+Phoenix,Apartment,276699.39,4,1,1419,2018-08-08
+San Jose,Single Family,275671.0,4,2,3902,2023-05-19
+San Diego,Apartment,437707.88,5,3,2739,2023-05-29
+Los Angeles,Apartment,417356.51,5,1,3245,2021-12-30
+San Antonio,Multi-Family,326732.81,5,2,1500,2019-04-18
+Houston,Multi-Family,245352.21,1,1,2609,2025-01-18
+New York,Condo,250589.38,4,3,2955,2024-06-15
+Dallas,Apartment,346906.1,5,2,3157,2021-10-03
+San Antonio,Townhouse,305671.77,4,2,4404,2022-06-08
+San Antonio,Townhouse,261519.73,4,1,4093,2024-09-23
+New York,Condo,399459.57,1,1,616,2022-10-18
+New York,Single Family,338334.28,1,1,1171,2023-05-02
+Philadelphia,Multi-Family,330219.53,2,2,4695,2018-06-20
+New York,Townhouse,312024.27,4,1,1314,2019-06-18
+Los Angeles,Condo,106828.64,1,3,4526,2023-08-23
+Philadelphia,Single Family,340269.18,5,3,2748,2024-09-24
+Philadelphia,Condo,429305.64,3,3,3311,2018-11-26
+Los Angeles,Apartment,472775.23,1,1,747,2021-05-06
+San Antonio,Single Family,269750.73,4,3,3146,2021-09-14
+Houston,Townhouse,479881.13,4,3,4162,2018-11-18
+San Diego,Townhouse,474403.39,2,2,4294,2025-03-21
+Philadelphia,Multi-Family,129683.95,4,1,1846,2018-09-01
+Dallas,Townhouse,281640.62,1,2,3593,2023-01-16
+San Antonio,Condo,420953.36,3,1,2427,2019-11-04
+Dallas,Single Family,482819.41,1,1,977,2018-02-15
+Los Angeles,Multi-Family,405623.0,2,2,2796,2018-11-11
+Philadelphia,Condo,342693.1,2,2,1380,2019-10-02
+Los Angeles,Townhouse,243298.34,5,3,4583,2021-12-12
+Chicago,Multi-Family,403829.61,3,2,2920,2022-11-29
+Chicago,Single Family,457250.73,2,3,4640,2018-05-23
+Houston,Condo,245519.08,4,2,4297,2021-10-19
+San Diego,Single Family,153364.34,4,2,3843,2024-04-04
+San Diego,Apartment,371047.05,5,3,2167,2018-10-22
+Chicago,Condo,333543.69,1,1,3590,2024-10-19
+San Diego,Townhouse,433756.27,5,2,901,2024-07-23
+Chicago,Single Family,268635.46,4,3,4951,2019-01-07
+Los Angeles,Townhouse,382627.47,4,1,4137,2022-06-24
+San Antonio,Single Family,353031.17,2,1,4908,2019-04-26
+San Jose,Multi-Family,431268.94,3,3,4783,2020-09-12
+New York,Condo,407791.05,4,1,2925,2020-08-15
+Phoenix,Condo,580041.01,3,3,2253,2024-01-20
+Chicago,Single Family,457543.31,3,3,3060,2022-03-21
+Phoenix,Single Family,366267.0,1,1,961,2024-11-12
+New York,Condo,264369.34,2,1,1884,2024-07-02
+Dallas,Single Family,314468.81,3,2,4162,2025-04-24
+Chicago,Condo,411024.44,1,2,2028,2020-12-03
+Dallas,Apartment,421983.73,3,2,2759,2025-02-20
+Los Angeles,Townhouse,494650.39,5,1,3147,2021-02-07
+Dallas,Apartment,469689.5,2,2,3683,2025-01-24
+Phoenix,Apartment,358308.05,1,2,1637,2018-05-24
+San Diego,Townhouse,432699.44,4,3,4583,2021-10-21
+Houston,Townhouse,429780.27,3,3,4495,2024-02-17
+San Antonio,Townhouse,242874.59,5,2,1613,2018-06-15
+Dallas,Single Family,350585.23,3,2,2428,2023-10-12
+Dallas,Apartment,310601.86,5,1,3790,2019-10-14
+Los Angeles,Multi-Family,308817.38,4,1,4186,2019-12-11
+Philadelphia,Apartment,362644.9,4,2,3183,2018-01-15
+San Diego,Single Family,281206.26,2,2,1193,2021-04-10
+Philadelphia,Multi-Family,319364.65,3,1,3990,2025-04-12
+San Jose,Townhouse,356559.38,3,2,1263,2022-11-26
+Dallas,Condo,461590.21,5,3,1467,2024-12-16
+Los Angeles,Townhouse,285073.44,3,1,4878,2018-02-03
+Chicago,Single Family,262235.76,4,1,3410,2025-04-02
+San Antonio,Single Family,428249.35,4,3,1926,2018-10-12
+Dallas,Apartment,247581.32,4,3,2610,2020-10-10
+Phoenix,Single Family,535409.26,4,3,4071,2025-04-16
+New York,Condo,380378.03,2,2,4296,2019-12-27
+Houston,Multi-Family,212330.85,5,2,4520,2021-10-21
+Phoenix,Townhouse,291658.76,5,1,1303,2019-08-11
+San Jose,Condo,219909.82,5,2,2225,2022-09-10
+San Antonio,Townhouse,370568.64,2,3,3439,2024-12-11
+Philadelphia,Apartment,312154.59,1,2,3456,2018-05-31
+Los Angeles,Condo,385477.85,4,1,2219,2022-02-05
+New York,Condo,240213.76,1,1,2031,2018-07-04
+San Jose,Single Family,339984.59,4,3,762,2020-02-26
+Dallas,Townhouse,329632.62,4,2,1231,2019-12-13
+Houston,Single Family,343347.15,2,1,804,2021-12-23
+Philadelphia,Apartment,374527.78,4,1,2319,2018-11-17
+San Antonio,Multi-Family,362906.48,3,1,1289,2024-04-05
+San Antonio,Townhouse,301101.85,1,3,3741,2020-09-11
+Houston,Apartment,374707.74,5,2,4337,2021-05-25
+San Antonio,Apartment,358733.11,4,2,4860,2018-03-21
+Phoenix,Single Family,238960.05,1,3,970,2023-04-01
+New York,Apartment,406705.55,1,1,2531,2023-12-12
+Chicago,Townhouse,269158.02,2,1,1494,2024-07-23
+Houston,Apartment,318473.52,2,1,1197,2022-06-13
+Houston,Condo,451750.12,5,1,2690,2021-03-09
+San Diego,Condo,616318.24,1,3,4269,2024-05-20
+Philadelphia,Multi-Family,567373.84,2,1,4188,2019-06-02
+New York,Single Family,444032.16,2,2,3737,2020-05-26
+Houston,Multi-Family,513265.25,4,3,1210,2023-06-05
+Houston,Townhouse,323908.77,3,3,3208,2018-04-06
+Chicago,Condo,285403.58,4,2,1691,2020-08-09
+Los Angeles,Apartment,270080.8,4,2,3391,2020-02-19
+Phoenix,Condo,313952.66,1,2,4467,2018-07-24
+San Antonio,Single Family,401141.55,2,1,2713,2018-03-17
+San Jose,Single Family,343895.66,4,1,2177,2018-04-09
+San Diego,Apartment,276414.16,4,3,2414,2020-04-03
+Dallas,Townhouse,307364.24,3,1,3151,2018-04-26
+San Antonio,Condo,464844.57,4,2,607,2022-11-19
+Los Angeles,Apartment,441922.89,4,1,2885,2025-07-16
+San Jose,Multi-Family,283185.59,2,2,4125,2019-07-11
+Dallas,Single Family,285645.02,3,1,858,2022-05-22
+San Diego,Single Family,452996.08,3,2,2498,2021-04-03
+New York,Condo,295349.26,5,3,1212,2023-10-28
+Chicago,Townhouse,298428.29,4,2,3613,2023-12-21
+San Jose,Apartment,384011.77,1,3,2510,2019-04-28
+Chicago,Single Family,295753.19,5,1,1269,2021-03-16
+San Antonio,Townhouse,243760.65,2,3,2194,2021-07-28
+Chicago,Multi-Family,392830.71,3,1,2160,2018-11-25
+Los Angeles,Townhouse,299789.7,5,3,4147,2018-11-28
+San Antonio,Condo,405869.1,5,1,1995,2019-06-21
+Houston,Townhouse,377670.9,1,1,1754,2025-06-22
+San Jose,Townhouse,423214.06,4,2,1585,2021-02-27
+Chicago,Apartment,304296.17,2,2,1580,2021-02-19
+Phoenix,Townhouse,319811.55,3,2,4736,2022-10-27
+San Diego,Multi-Family,271596.41,3,1,2926,2020-05-13
+Los Angeles,Single Family,410863.88,1,1,2274,2019-08-14
+San Antonio,Townhouse,302299.76,1,1,1689,2022-02-20
+Los Angeles,Single Family,416645.03,3,3,2558,2020-05-19
+New York,Single Family,396955.92,1,3,1454,2020-02-23
+Philadelphia,Single Family,249343.9,3,2,1936,2022-01-14
+San Jose,Townhouse,452868.26,4,1,992,2018-12-26
+Los Angeles,Condo,218325.12,3,1,2857,2019-02-20
+Los Angeles,Townhouse,435925.72,3,3,2066,2021-10-22
+Dallas,Multi-Family,384617.77,3,2,3197,2022-11-20
+Los Angeles,Single Family,292770.29,3,3,4517,2022-03-29
+Phoenix,Apartment,217899.35,3,1,880,2025-01-02
+Houston,Apartment,309437.5,1,3,3546,2024-08-19
+Phoenix,Multi-Family,343260.88,2,3,2931,2021-11-09
+Los Angeles,Single Family,256456.13,1,3,3590,2019-01-11
+San Jose,Townhouse,458598.21,4,2,1743,2018-11-06
+Houston,Single Family,386728.73,1,2,864,2018-12-02
+Houston,Condo,533818.37,1,1,2362,2019-12-09
+Los Angeles,Townhouse,424540.42,1,3,667,2023-10-26
+Dallas,Condo,261408.4,4,2,4608,2024-01-08
+San Jose,Condo,473863.2,4,3,1378,2024-03-25
+Dallas,Townhouse,361471.06,2,1,1260,2023-09-11
+Dallas,Multi-Family,257264.69,5,1,4116,2023-02-05
+Los Angeles,Single Family,373836.9,1,3,1576,2019-04-19
+New York,Multi-Family,237957.73,3,2,1005,2021-05-08
+San Jose,Apartment,339006.23,5,3,2173,2022-11-04
+Phoenix,Townhouse,513996.45,4,3,2078,2025-01-12
+Philadelphia,Condo,424212.75,4,2,1178,2022-04-29
+New York,Condo,392423.43,2,3,3598,2022-03-02
+New York,Single Family,364333.92,1,1,1710,2021-02-07
+New York,Single Family,440685.77,2,1,4957,2023-07-27
+San Diego,Apartment,328450.18,2,3,4051,2023-05-25
+Philadelphia,Townhouse,99819.71,5,1,741,2024-10-07
+San Diego,Single Family,196672.54,3,1,2696,2020-11-28
+San Antonio,Multi-Family,458447.96,1,2,3029,2020-04-17
+San Antonio,Apartment,292246.99,1,1,1455,2020-01-18
+Los Angeles,Single Family,453823.96,1,3,2117,2021-11-15
+San Antonio,Single Family,358636.76,3,3,1956,2018-01-06
+New York,Multi-Family,498056.81,5,1,1732,2020-12-14
+Chicago,Condo,279064.97,4,1,3911,2020-06-30
+San Antonio,Multi-Family,455195.04,4,2,773,2021-05-16
+San Antonio,Single Family,252104.48,5,3,1326,2023-11-12
+Phoenix,Townhouse,431863.07,1,3,1019,2023-03-03
+Philadelphia,Multi-Family,229499.65,2,1,2374,2025-05-15
+San Diego,Townhouse,502139.85,1,2,3302,2019-05-21
+Chicago,Townhouse,300906.26,1,3,4468,2020-05-18
+San Antonio,Single Family,240960.09,3,1,1509,2021-05-10
+Phoenix,Townhouse,491093.24,2,3,3789,2024-08-17
+Phoenix,Condo,395163.27,5,2,2228,2019-12-17
+Philadelphia,Multi-Family,242510.09,3,2,4608,2020-08-29
+San Jose,Multi-Family,180290.26,1,3,2598,2018-05-26
+Phoenix,Condo,285443.06,2,1,1836,2025-05-12
+San Diego,Townhouse,292985.41,1,3,2031,2019-07-28
+New York,Townhouse,411848.45,1,2,2419,2018-05-04
+Phoenix,Townhouse,454794.21,4,3,4100,2020-06-12
+San Antonio,Multi-Family,316460.43,1,1,2621,2021-03-22
+San Antonio,Condo,323423.04,2,3,2842,2022-07-19
+Houston,Condo,493342.24,4,3,3734,2025-03-06
+Los Angeles,Multi-Family,342172.93,2,1,606,2024-07-30
+Philadelphia,Condo,315439.05,4,1,2191,2020-11-09
+Phoenix,Condo,372765.33,2,3,3654,2018-12-21
+Chicago,Townhouse,138408.0,3,2,3528,2024-06-24
+Dallas,Townhouse,446485.16,2,2,1654,2021-12-25
+San Antonio,Apartment,511558.28,4,1,2500,2020-03-04
+Philadelphia,Single Family,352795.15,5,2,1778,2023-10-12
+Los Angeles,Townhouse,391818.71,3,3,1857,2018-11-14
+New York,Apartment,189264.03,5,3,4940,2024-10-31
+Phoenix,Apartment,260021.21,2,1,2769,2021-04-17
+New York,Apartment,419695.44,4,2,3016,2023-03-14
+New York,Townhouse,316618.05,5,1,4754,2018-01-26
+San Antonio,Single Family,339269.79,5,2,4763,2019-10-03
+Houston,Townhouse,394771.69,5,1,2952,2024-09-02
+Houston,Apartment,223196.45,5,3,2990,2018-08-01
+Dallas,Single Family,362332.91,3,3,1977,2022-02-03
+New York,Multi-Family,271221.62,1,1,3589,2024-09-17
+Los Angeles,Multi-Family,287915.24,4,1,899,2019-02-03
+New York,Multi-Family,367083.19,1,3,1903,2023-06-09
+Chicago,Multi-Family,476020.74,5,3,1734,2024-03-15
+Los Angeles,Multi-Family,297809.82,5,1,3770,2025-07-05
+San Antonio,Condo,406481.41,4,2,2751,2020-08-04
+Los Angeles,Condo,456534.76,3,1,1598,2025-04-15
+Phoenix,Apartment,286565.69,5,1,1256,2019-01-25
+Los Angeles,Multi-Family,402376.02,3,1,866,2021-05-29
+Los Angeles,Multi-Family,377142.15,5,3,3811,2024-06-30
+New York,Apartment,282147.07,4,1,1157,2022-10-27
+Houston,Apartment,357567.23,2,2,1482,2025-07-03
+San Jose,Apartment,387710.04,4,2,2210,2023-12-06
+Philadelphia,Apartment,347073.72,1,2,3054,2018-08-01
+San Diego,Townhouse,374047.12,1,3,4425,2024-07-23
+Phoenix,Condo,108025.48,1,3,4402,2020-08-26
+San Antonio,Single Family,469395.63,4,3,964,2024-06-07
+Phoenix,Apartment,316310.22,3,3,2463,2021-05-14
+Dallas,Single Family,330509.17,1,1,4535,2022-04-21
+Los Angeles,Condo,463377.01,3,3,3090,2025-05-17
+San Diego,Single Family,422269.6,2,2,4020,2025-02-10
+Houston,Townhouse,263764.76,3,3,4237,2018-04-21
+San Antonio,Multi-Family,573974.3,5,2,4352,2020-12-06
+Dallas,Apartment,396007.06,3,2,4752,2020-04-24
+Dallas,Condo,337627.17,5,1,3558,2020-01-22
+San Jose,Townhouse,314352.84,5,1,2367,2018-07-07
+New York,Single Family,368058.32,3,2,3775,2021-07-21
+Dallas,Condo,364523.87,1,2,1013,2020-01-02
+Phoenix,Townhouse,560944.46,5,1,2615,2019-09-13
+Los Angeles,Apartment,428460.03,2,1,4244,2024-01-17
+Phoenix,Townhouse,278408.31,2,2,2097,2022-07-26
+San Jose,Condo,383616.0,5,3,3155,2025-04-16
+San Diego,Apartment,322089.15,3,2,3380,2024-02-14
+San Antonio,Apartment,452770.44,5,3,2968,2025-01-15
+Los Angeles,Single Family,202267.2,5,1,4458,2018-06-03
+Philadelphia,Condo,375776.09,1,1,2984,2019-03-06
+Los Angeles,Condo,417794.38,2,2,2189,2024-02-09
+Chicago,Townhouse,390608.52,4,2,1611,2025-03-03
+Los Angeles,Single Family,241546.62,4,1,1635,2019-06-23
+New York,Condo,248375.08,2,2,1864,2021-11-20
+Dallas,Condo,287381.0,1,3,1417,2018-04-13
+Philadelphia,Condo,351537.9,1,2,1488,2022-03-02
+Philadelphia,Multi-Family,333055.08,1,3,1418,2021-02-10
+Los Angeles,Townhouse,364959.75,5,3,2824,2020-03-20
+San Jose,Condo,410328.6,3,1,3048,2025-01-15
+Phoenix,Multi-Family,333036.59,2,3,2548,2024-05-02
+San Antonio,Condo,506877.86,2,3,4718,2022-11-17
+New York,Apartment,217190.37,5,1,834,2023-06-02
+Los Angeles,Multi-Family,369150.69,4,3,4123,2019-06-20
+New York,Townhouse,356837.06,1,2,1916,2019-03-03
+Los Angeles,Condo,336055.37,4,1,1978,2018-08-14
+San Diego,Single Family,304981.07,2,2,826,2021-10-06
+Phoenix,Condo,299185.98,1,1,2857,2025-01-13
+Houston,Multi-Family,335221.97,5,1,2678,2022-08-30
+San Jose,Multi-Family,266883.01,3,2,2605,2018-01-30
+San Jose,Condo,491704.38,1,1,2478,2019-08-21
+San Diego,Apartment,194624.12,4,2,1539,2020-08-09
+Philadelphia,Condo,431788.97,5,2,2061,2021-04-08
+Phoenix,Multi-Family,269180.64,3,3,2148,2024-08-11
+San Diego,Multi-Family,365431.71,1,1,4813,2025-05-18
+Chicago,Townhouse,372987.22,5,2,4196,2024-01-31
+Philadelphia,Townhouse,497988.61,5,2,2415,2019-08-09
+Houston,Condo,400328.47,2,3,986,2019-01-14
+New York,Multi-Family,431307.36,1,2,4866,2018-09-13
+Los Angeles,Multi-Family,491187.65,4,3,3112,2025-06-08
+Phoenix,Townhouse,294908.88,4,2,4466,2021-12-27
+San Diego,Single Family,273685.12,1,2,4062,2020-06-28
+Los Angeles,Multi-Family,363575.39,5,1,632,2023-03-26
+Dallas,Townhouse,265338.83,1,2,1319,2019-07-08
+San Diego,Apartment,423124.65,3,1,1572,2018-07-01
+San Diego,Single Family,417021.99,5,2,1243,2024-09-27
+Philadelphia,Townhouse,417696.64,3,1,1088,2018-03-13
+San Jose,Condo,365013.46,5,3,1841,2024-08-28
+Chicago,Townhouse,413572.95,4,2,992,2021-12-24
+Phoenix,Townhouse,368780.25,4,2,4002,2021-08-18
+Chicago,Single Family,190628.3,4,2,832,2018-12-05
+Houston,Condo,416248.11,2,1,625,2019-09-27
+San Antonio,Townhouse,263377.31,1,2,1060,2018-05-15
+Dallas,Multi-Family,399822.17,4,3,1090,2024-07-01
+San Antonio,Multi-Family,464014.9,1,1,3773,2022-03-23
+Houston,Townhouse,323702.12,1,2,3913,2023-03-05
+San Antonio,Single Family,166428.87,2,1,2652,2018-11-18
+San Jose,Apartment,192900.66,1,2,3069,2018-09-14
+Chicago,Multi-Family,348434.79,3,2,3383,2023-11-06
+Chicago,Townhouse,552360.62,5,2,4245,2019-05-29
+Chicago,Condo,350679.98,2,2,2949,2023-03-13
+San Diego,Apartment,293629.98,5,1,3906,2023-09-28
+Phoenix,Single Family,341696.64,4,1,4423,2018-10-18
+San Jose,Townhouse,351017.51,4,2,4352,2025-02-05
+Dallas,Multi-Family,368494.23,4,3,1875,2018-04-24
+Chicago,Single Family,354796.14,3,1,1469,2020-04-28
+Philadelphia,Apartment,383184.39,2,2,1883,2022-04-08
+Chicago,Single Family,403514.14,5,2,1896,2025-01-09
+San Diego,Single Family,425938.79,3,3,844,2022-11-09
+Houston,Single Family,454998.43,4,3,4882,2020-05-04
+Chicago,Single Family,318221.94,4,2,685,2024-09-27
+New York,Apartment,463770.62,4,1,4183,2020-07-17
+San Antonio,Multi-Family,384959.5,4,2,3926,2025-06-19
+San Antonio,Multi-Family,224959.23,4,2,4238,2020-12-25
+Chicago,Multi-Family,410451.53,3,2,3260,2018-06-29
+Chicago,Multi-Family,294271.97,4,1,1796,2023-07-27
+San Jose,Single Family,204316.21,2,1,2061,2024-03-30
+Chicago,Apartment,424419.2,3,1,4343,2020-05-04
+San Jose,Condo,331877.58,1,1,4424,2018-05-14
+San Jose,Condo,276892.62,3,3,4296,2020-09-15
+Chicago,Condo,374193.64,3,2,3365,2025-04-30
+Phoenix,Multi-Family,474468.8,2,1,2761,2020-01-04
+Dallas,Single Family,158383.28,1,2,753,2018-09-18
+Los Angeles,Single Family,197372.9,1,1,2513,2019-12-24
+Phoenix,Condo,353257.56,1,1,3001,2021-06-24
+Houston,Townhouse,241454.39,4,1,3471,2022-10-12
+Philadelphia,Townhouse,420842.1,3,1,3235,2022-09-10
+San Jose,Multi-Family,269489.08,4,3,2638,2024-01-15
+San Jose,Townhouse,445788.22,2,1,2779,2024-05-26
+Philadelphia,Townhouse,208129.15,1,3,4807,2023-08-22
+San Antonio,Apartment,371364.59,4,2,4176,2020-09-21
+San Jose,Condo,209424.53,3,1,1990,2020-12-02
+Houston,Townhouse,256873.24,3,3,4207,2023-12-31
+Los Angeles,Apartment,455850.43,2,1,3080,2025-02-22
+Philadelphia,Multi-Family,301962.25,5,3,3524,2018-01-20
+San Antonio,Multi-Family,419023.68,5,1,2273,2018-07-14
+Dallas,Apartment,94163.16,5,1,4907,2023-09-20
+Philadelphia,Multi-Family,417937.33,1,1,4014,2019-07-16
+Los Angeles,Single Family,235120.6,2,2,4213,2021-04-19
+Los Angeles,Single Family,469410.94,3,3,805,2018-02-27
+Philadelphia,Multi-Family,251883.45,1,2,4050,2023-07-15
+Chicago,Multi-Family,420536.52,5,1,871,2022-11-21
+San Diego,Single Family,274887.39,3,3,2422,2020-10-09
+Dallas,Condo,363325.72,1,3,4151,2022-10-06
+Houston,Single Family,175078.0,2,2,3152,2024-07-04
+San Antonio,Single Family,397536.6,1,3,3564,2023-09-12
+Phoenix,Townhouse,335365.76,5,2,3400,2018-07-18
+Phoenix,Multi-Family,549566.75,4,1,3136,2019-11-21
+Dallas,Single Family,660991.86,2,3,4094,2020-03-17
+Los Angeles,Apartment,431607.28,2,3,1108,2023-12-30
+Los Angeles,Apartment,342578.9,1,1,4089,2018-04-04
+Phoenix,Townhouse,296404.09,5,2,4957,2024-06-07
+Houston,Multi-Family,404002.42,4,1,2138,2023-10-05
+Phoenix,Condo,381170.18,5,3,4887,2019-11-20
+New York,Apartment,305123.18,1,1,2097,2019-02-03
+Philadelphia,Multi-Family,395418.32,4,2,968,2020-03-23
+Chicago,Condo,296526.68,3,3,2507,2021-01-04
+Chicago,Townhouse,375605.49,1,2,3986,2019-09-24
+Los Angeles,Single Family,317676.2,5,3,1592,2023-06-17
+Dallas,Multi-Family,531922.32,5,2,1258,2024-02-23
+Los Angeles,Townhouse,353993.64,4,3,2081,2021-07-16
+Phoenix,Apartment,408005.32,4,3,2137,2022-10-02
+Phoenix,Condo,451107.65,3,1,4668,2023-11-30
+Chicago,Multi-Family,329485.18,3,2,3662,2021-02-11
+Los Angeles,Apartment,302959.11,3,3,712,2020-08-28
+San Antonio,Apartment,344538.73,5,3,739,2020-08-31
+Phoenix,Multi-Family,326010.11,1,2,3768,2023-10-03
+Los Angeles,Apartment,450906.53,5,2,1487,2024-07-21
+New York,Single Family,331457.05,3,1,649,2022-06-10
+Philadelphia,Condo,531334.4,5,3,2073,2019-06-10
+Philadelphia,Condo,284256.78,4,1,4365,2020-10-02
+Houston,Apartment,294100.53,3,2,3361,2019-03-27
+Houston,Single Family,384005.94,1,1,2015,2023-02-08
+San Jose,Condo,353279.7,1,2,1117,2022-10-20
+San Diego,Multi-Family,274150.47,2,1,1941,2022-10-25
+San Jose,Condo,216229.06,4,1,4402,2023-02-09
+Philadelphia,Townhouse,373933.08,1,3,3034,2022-01-21
+Los Angeles,Single Family,341656.2,2,2,4717,2020-01-19
+Dallas,Townhouse,205035.48,2,3,3966,2021-01-05
+San Antonio,Townhouse,338337.01,4,3,4154,2022-03-21
+Los Angeles,Single Family,277691.23,2,2,3449,2025-01-18
+Los Angeles,Townhouse,259508.53,3,2,4768,2023-09-22
+San Antonio,Apartment,495506.06,1,2,4795,2018-04-29
+Phoenix,Multi-Family,565533.27,3,2,3594,2018-10-02
+Phoenix,Apartment,252243.79,5,3,1871,2019-12-30
+Houston,Townhouse,516431.71,1,1,883,2025-05-22
+Dallas,Townhouse,422472.39,1,1,4996,2022-05-13
+San Diego,Condo,196889.25,4,3,2520,2025-02-04
+Philadelphia,Single Family,401425.48,2,1,2693,2020-07-14
+Phoenix,Multi-Family,406460.59,1,2,969,2021-04-25
+New York,Apartment,248033.57,3,2,4090,2019-09-19
+San Diego,Apartment,385034.18,4,1,3026,2021-03-15
+Philadelphia,Townhouse,379785.61,1,3,3562,2020-11-29
+San Diego,Multi-Family,524958.39,1,1,2817,2023-12-23
+Phoenix,Condo,488145.41,2,1,4351,2022-01-12
+Los Angeles,Townhouse,455948.05,4,3,3384,2024-08-09
+Chicago,Condo,401246.65,1,2,4764,2019-07-05
+San Antonio,Apartment,252688.46,2,1,2151,2024-04-20
+San Jose,Multi-Family,162255.71,2,2,1927,2024-03-06
+Phoenix,Condo,426817.96,3,3,2966,2022-01-20
+Dallas,Multi-Family,316682.83,5,2,3034,2019-06-23
+Chicago,Multi-Family,491702.04,3,2,1290,2020-03-24
+Houston,Townhouse,418133.95,2,1,3156,2020-03-15
+San Diego,Single Family,457297.8,1,1,2317,2024-05-14
+New York,Apartment,586387.25,5,1,2473,2021-10-16
+Chicago,Condo,326913.36,5,2,1341,2019-12-14
+New York,Single Family,495326.07,2,2,1958,2023-06-27
+Houston,Single Family,302094.89,1,1,4951,2019-01-02
+Chicago,Townhouse,172649.57,5,3,2735,2021-03-14
+San Diego,Single Family,300687.72,2,1,2237,2021-11-21
+New York,Townhouse,494363.2,5,1,1244,2019-01-30
+Philadelphia,Single Family,435605.92,4,3,1402,2019-08-20
+Houston,Apartment,445778.97,4,1,795,2022-07-08
+Los Angeles,Single Family,339587.58,2,3,876,2024-06-13
+San Antonio,Single Family,427975.55,5,3,2513,2024-12-25
+Chicago,Condo,398186.61,5,2,1800,2021-06-15
+San Antonio,Multi-Family,404726.48,2,2,3454,2018-01-24
+San Antonio,Multi-Family,276146.46,5,1,1629,2018-02-18
+Philadelphia,Multi-Family,240795.42,3,1,3194,2025-07-25
+San Jose,Apartment,380826.08,5,2,686,2018-01-17
+San Jose,Single Family,134339.93,1,3,3542,2025-01-12
+Houston,Multi-Family,239697.65,5,3,3300,2025-03-06
+Philadelphia,Single Family,385902.02,4,3,2247,2023-02-15
+Dallas,Townhouse,361210.49,1,2,1320,2018-05-24
+Philadelphia,Condo,524463.92,3,2,1098,2022-11-06
+Chicago,Condo,279042.01,4,3,3579,2018-01-05
+Houston,Condo,224149.51,2,1,4211,2025-04-08
+San Antonio,Apartment,260170.63,3,2,4582,2018-04-28
+Los Angeles,Townhouse,299026.98,4,3,736,2025-01-15
+San Antonio,Single Family,191401.67,3,3,1048,2021-11-06
+San Jose,Townhouse,162007.56,5,2,4836,2020-07-08
+Los Angeles,Single Family,382782.12,5,1,4940,2019-06-26
+New York,Apartment,442427.01,5,1,4990,2018-06-15
+Dallas,Condo,393348.97,5,1,1416,2021-11-18
+Dallas,Single Family,269393.24,5,1,2376,2021-09-13
+New York,Townhouse,452769.46,3,1,4300,2021-05-12
+San Diego,Multi-Family,382022.72,3,2,1767,2020-08-21
+San Jose,Single Family,474449.81,1,2,3072,2018-10-18
+San Jose,Apartment,363202.09,3,3,4416,2021-07-25
+San Antonio,Townhouse,454419.11,3,2,4608,2021-02-03
+Houston,Multi-Family,662189.69,5,3,4834,2020-10-15
+San Antonio,Single Family,331541.53,2,3,983,2019-01-23
+San Jose,Condo,280180.45,2,2,3165,2022-06-06
+Houston,Multi-Family,434843.09,4,3,1331,2025-06-28
+New York,Condo,125311.07,4,1,3720,2020-03-10
+San Diego,Single Family,330605.06,5,2,2982,2019-09-28
+Los Angeles,Multi-Family,283669.57,4,1,1234,2024-04-12
+Houston,Townhouse,343299.29,3,2,805,2018-03-11
+San Diego,Single Family,292862.58,3,3,3221,2022-11-23
+San Diego,Single Family,204720.41,3,2,3266,2019-09-20
+Los Angeles,Townhouse,210284.2,3,2,3906,2021-06-07
+Chicago,Single Family,381573.59,1,3,2105,2025-06-05
+Philadelphia,Single Family,380562.92,5,3,2555,2022-07-18
+Philadelphia,Single Family,395728.04,5,1,2453,2025-06-05
+Chicago,Multi-Family,495582.23,2,1,4026,2023-05-02
+San Diego,Multi-Family,457424.72,5,3,3763,2023-10-29
+Phoenix,Townhouse,502618.63,1,3,819,2021-08-04
+New York,Condo,240077.17,3,1,1403,2018-03-01
+San Antonio,Townhouse,314817.58,2,1,2093,2018-09-11
+Los Angeles,Multi-Family,270687.47,5,1,653,2020-05-17
+Dallas,Apartment,456081.37,3,1,1554,2022-02-19
+Phoenix,Single Family,444256.85,1,2,3161,2021-11-29
+Phoenix,Single Family,436045.6,2,3,1457,2022-12-24
+Houston,Single Family,406568.71,1,2,4477,2024-07-25
+San Antonio,Apartment,343926.86,1,3,4890,2023-01-08
+Philadelphia,Townhouse,367183.93,1,2,4851,2019-10-09
+Houston,Multi-Family,405325.12,5,2,1522,2021-05-11
+Philadelphia,Single Family,197407.03,5,3,1830,2022-01-04
+Dallas,Multi-Family,411787.48,4,3,3534,2020-02-22
+San Jose,Townhouse,255057.57,4,1,4348,2019-04-25
+Philadelphia,Multi-Family,493473.5,5,1,1207,2019-09-27
+San Jose,Single Family,384965.0,2,2,2703,2023-10-15
+San Diego,Apartment,193519.72,3,3,4799,2021-06-29
+New York,Single Family,283052.44,3,1,1805,2019-01-14
+Dallas,Multi-Family,377522.13,5,2,3335,2019-11-24
+Dallas,Apartment,594945.98,5,1,3450,2025-07-02
+San Antonio,Townhouse,232369.67,4,3,4370,2021-01-23
+New York,Townhouse,320408.16,4,1,3450,2019-03-01
+San Diego,Multi-Family,459937.74,2,1,1591,2019-09-22
+San Diego,Townhouse,272943.21,3,2,4026,2022-02-25
+Dallas,Townhouse,309926.44,3,1,3796,2018-03-13
+Dallas,Apartment,513394.82,5,1,618,2021-03-08
+San Diego,Condo,525477.55,3,2,1172,2024-12-05
+Los Angeles,Townhouse,214598.16,3,3,1250,2023-01-01
+San Antonio,Multi-Family,294680.78,2,3,3187,2018-06-02
+Los Angeles,Single Family,202919.49,3,1,3427,2020-02-18
+San Jose,Condo,364116.93,2,2,2817,2024-11-16
+Houston,Apartment,419180.98,3,3,3561,2022-06-28
+Houston,Townhouse,509737.28,3,3,1698,2021-10-02
+Philadelphia,Condo,350137.97,1,3,3504,2022-11-04
+Phoenix,Townhouse,222322.7,1,2,3105,2022-10-09
+San Diego,Condo,510838.93,4,1,2278,2021-04-15
+Los Angeles,Townhouse,385496.83,4,2,2349,2023-10-17
+San Antonio,Single Family,217917.62,2,2,1735,2018-08-02
+Dallas,Townhouse,573628.37,1,3,806,2024-03-12
+Dallas,Apartment,391486.55,3,2,4708,2022-10-03
+San Diego,Apartment,396328.85,5,2,1404,2025-04-29
+Dallas,Single Family,394461.94,2,3,3523,2023-11-14
+Dallas,Single Family,454090.94,3,2,4991,2020-05-25
+San Diego,Single Family,366431.83,4,3,1541,2021-03-16
+Los Angeles,Single Family,339358.11,3,3,1575,2020-09-05
+New York,Apartment,412952.96,1,3,4874,2025-01-21
+Los Angeles,Single Family,269568.42,4,1,1857,2025-07-03
+Phoenix,Multi-Family,436632.0,1,3,3254,2019-03-02
+San Antonio,Multi-Family,510764.09,5,2,4456,2023-06-07
+Chicago,Apartment,329414.06,2,3,3011,2020-05-18
+Los Angeles,Single Family,275342.17,2,2,1362,2025-07-11
+Dallas,Single Family,177010.22,2,3,3755,2024-04-03
+Philadelphia,Multi-Family,326908.97,3,1,2640,2025-03-05
+San Jose,Townhouse,343823.58,3,2,791,2025-07-20
+Dallas,Single Family,397944.15,5,2,1683,2021-12-29
+San Jose,Apartment,305128.34,4,1,1636,2021-07-13
+Chicago,Apartment,459043.43,4,1,4465,2020-12-02
+San Jose,Single Family,312059.55,2,3,4706,2024-03-01
+Houston,Single Family,383206.52,4,2,2743,2019-03-14
+Phoenix,Multi-Family,342390.32,2,2,2543,2020-03-25
+New York,Single Family,228260.39,3,2,3816,2020-07-10
+Philadelphia,Townhouse,381304.97,2,1,2753,2021-07-04
+Chicago,Townhouse,346234.01,5,2,1376,2019-10-15
+Houston,Single Family,296001.24,2,3,2753,2019-02-13
+San Jose,Multi-Family,240802.45,5,1,3703,2018-10-31
+Los Angeles,Condo,322111.66,3,1,1444,2019-07-19
+San Jose,Multi-Family,434515.8,1,3,4515,2025-07-09
+Phoenix,Townhouse,474689.17,1,3,4743,2019-11-19
+New York,Apartment,343799.6,2,3,2430,2024-08-12
+San Diego,Single Family,506288.88,5,1,1448,2022-12-25
+Houston,Condo,322600.69,1,1,2481,2025-01-22
+New York,Single Family,323625.46,4,3,3492,2024-02-12
+Houston,Condo,450265.09,3,2,3862,2023-11-02
+Dallas,Single Family,220847.44,3,3,3385,2021-02-24
+Philadelphia,Multi-Family,379085.28,5,2,2894,2020-07-20
+San Antonio,Condo,239513.72,3,2,1298,2021-04-30
+San Diego,Apartment,372054.14,4,1,1426,2018-08-25
+San Jose,Multi-Family,390156.06,4,1,2934,2025-04-30
+San Antonio,Apartment,396831.56,5,2,4158,2019-01-31
+San Antonio,Townhouse,499393.82,5,3,3585,2023-03-25
+Los Angeles,Multi-Family,402790.26,2,1,875,2024-11-24
+Los Angeles,Apartment,218067.81,4,1,4568,2024-12-01
+Los Angeles,Townhouse,289205.16,5,1,3729,2020-12-28
+San Antonio,Single Family,364209.22,3,2,1734,2018-06-28
+Los Angeles,Apartment,407470.13,3,1,2120,2019-10-28
+Phoenix,Condo,424215.28,2,2,1321,2025-03-16
+New York,Condo,449881.66,1,2,1470,2020-08-04
+Houston,Single Family,332667.88,2,1,2247,2025-03-15
+Chicago,Condo,410730.74,1,3,742,2024-02-11
+San Diego,Multi-Family,352128.04,5,3,3031,2020-02-19
+Phoenix,Apartment,438673.24,4,2,2448,2023-12-10
+Philadelphia,Single Family,469963.81,1,3,4391,2023-01-20
+Houston,Single Family,328134.56,1,3,2104,2023-11-20
+San Diego,Multi-Family,363119.01,3,2,1944,2021-08-20
+New York,Townhouse,358642.85,3,2,1482,2019-06-03
